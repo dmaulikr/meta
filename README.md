@@ -4,6 +4,8 @@ E = m * love ^ 2
 
 ## WTF is this?
 
+Example code that can help with a steep learning curve of Objective-C. It uses mostly Inheritance and Delegation patterns, is ready for multiple delegation and intentionally lacks messaging.
+
 This is nothing more than an Objective-C code, that emerged while sitting in a pub over a beer. However:
 
 It is based on a simple requirements, it must implement: Love, peace & eternity.
