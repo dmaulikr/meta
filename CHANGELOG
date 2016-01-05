@@ -1,0 +1,4 @@
+» Sharing the love of God with all Living Entities (based on recently appearing Einstein's letters to his daughter)
+» Adding sample protocol for GodProtocolDelegate, this really asks for a module-based system. It's expected to have infinite amount of gods that will manage love over their universe, collecting love on praying and what remains on entity termination.
+» Praying is defined to be a void method, returns nothing, possibly asynchronous in future resulting in love update (not implemented yet; might affect Destiny as well)
+» Any NSObject can be a DestinyDelegate, live/unlive.
